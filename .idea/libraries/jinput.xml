@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jinput">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Libs/jars/jinput.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Libs/jars/jogg-0.0.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Libs/jars/jorbis-0.0.15.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Libs/jars/lwjgl.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Libs/jars/slick.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/Libs/lwjgl/native/macosx" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
